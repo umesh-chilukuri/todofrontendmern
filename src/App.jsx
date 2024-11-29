@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import Header from './components/Header';
 import Profile from './pages/Profile';
 import Register from './pages/Register';
-import Login from './pages/login';
+import Login from './pages/Login';
 import { Toaster } from 'react-hot-toast';
 import axios from 'axios';
 import { Context, server } from './main';
